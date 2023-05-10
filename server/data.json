@@ -1,0 +1,22 @@
+[
+  {
+    "Artist": "Taylor Swift",
+    "age": 33,
+    "best song": "You Belong with Me"
+  },
+  {
+    "Artist": "Panic at the Disco",
+    "age": 36,
+    "best song": "I Write Sins Not Tragedies"
+  },
+  {
+    "Artist": "Avril Lavinge",
+    "age": 38,
+    "best song": "Complicated"
+  },
+  {
+    "Artist": "Blink 182",
+    "age": 51,
+    "best song": "What's my age again?"
+  }
+]
